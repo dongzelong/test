@@ -1,0 +1,23 @@
+视云联网平台-网管系统
+http://192.168.106.53:8050/ admin 12345678 1234$#@!
+
+http://192.168.106.55:8050/ admin 123456
+
+部署节点
+http://192.168.106.53/  admin 12345678 1234$#@!
+http://192.168.106.52/  admin 12345678 1234$#@!
+
+CI服务器,用于打包
+http://cibj.netposa.com/jenkins/
+
+FTP服务器(保存压缩包)
+ftp://netposa:netposa@192.168.9.27
+
+CI远程桌面 192.168.9.21 
+
+
+SVN地址:http://192.168.11.97/svn/vgs/new_svn/PVGPlus/trunk dongzelong 12345678
+
+mhlamms@163.com
+
+
